@@ -23,4 +23,4 @@
 	url = https://github.com/sparkle-project/Sparkle.git
 [submodule "External/JAAIOSDeviceInfo"]
 	path = External/JAAIOSDeviceInfo
-	url = https://github.com/iKorich/JAAIOSDeviceInfo.git
+	url = https://github.com/JensAyton/JAAIOSDeviceInfo.git
